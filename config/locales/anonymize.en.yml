@@ -1,0 +1,12 @@
+
+en:
+  admin:
+    actions:
+      anonymize:
+        title: "Anonymize %{model_label_plural}"
+        menu: "Anonymize"
+        breadcrumb: "Anonymize"
+        link: "Anonymize found %{model_label_plural}"
+        bulk_link: "Anonymize selected %{model_label_plural}"
+        done: "Anonymized"
+        question: 'The following objects will be anonymized, which may anonymize some of their related records (related personal data will be erased):'
